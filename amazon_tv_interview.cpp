@@ -1,3 +1,7 @@
+
+// Please read the problem diagram stated in the pdf. 
+// This is to create a dependecy tree for package installation 
+// Example when you use apt-get install, it checks for the dependecy
 #include <iostream>
 #include <list>
 
